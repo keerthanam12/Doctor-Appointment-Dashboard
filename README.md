@@ -26,6 +26,11 @@ Doctor Appointment Dashboard that allows users to book, manage, and view appoint
 
 <p align="center"><a href="https://www.apachefriends.org" target="_blank"><img src="https://github.com/keerthanam12/Doctor-Appointment-Dashboard/assets/145577874/ec6745dd-c41d-4013-a5b5-9e82ee2200e0" width="100" alt="XAMPP Logo"></a></p>
 
+<p align="center">
+<a href="https://www.apachefriends.org"><img src="https://img.shields.io/badge/Version-0075A8?style=for-the-badge&logo=Version&logoColor=white" alt="version"></a>
+<a href="https://www.apachefriends.org"><img src="https://img.shields.io/badge/Downloads-CCFF00?style=for-the-badge&logo=Downloads&logoColor=white" alt="downloads"></a>
+</p>
+
 ## ⚡ About XAMMP
   * Install and setup `XAMPP` package
   * Download `XAMPP` from here https://www.apachefriends.org/download.html

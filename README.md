@@ -1,3 +1,40 @@
+# 🔗 Project Title
+Doctor Appointment Dashboard
+
+
+# 🔗 Project Description
+Doctor Appointment Dashboard that allows users to book, manage, and view appointments with doctors. It includes features for both patients and doctors, offering a seamless appointment scheduling experience.
+
+
+## 🖥️ Tech Stack
+**Frontend:**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=scss&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Backend:**
+
+![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![DJANGO](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+
+## 📌 Installation
+
+* Install and setup `XAMPP` package
+  * Download `XAMPP` from here https://www.apachefriends.org/download.html
+  * Create `XAMPP` folder manually in drive C like this `C:\xampp`
+  * Start Installation of the downloaded `XAMPP' package 
+  * Verify that Apache and MySQL packages are selected
+  * Verify that `c:\xampp` directory is selected
+  * Complete the installation until finish.
+
+Need more toturial? you can check some sites and video below we think has good information
+* [Blogsite](https://blog.templatetoaster.com/install-xampp-on-windows/)
+* [XAMPP Official Site](https://www.apachefriends.org/index.html)
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
@@ -64,3 +101,11 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+
+## 📬 Contact
+
+Feel free to reach me through the below handles if you'd like to contact me.
+
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keerthana-m-083454259)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/keerthana0mohan)

@@ -15,14 +15,17 @@ Doctor Appointment Dashboard that allows users to book, manage, and view appoint
 
 **Backend:**
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![LARAVEL](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![PHPMYADMIN](https://img.shields.io/badge/PhpMyAdmin-404D59?style=for-the-badge)
+
+**Database:**
+
+![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 **Tools/Platforms:**
 
+![PHPMYADMIN](https://img.shields.io/badge/PhpMyAdmin-404D59?style=for-the-badge)
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VISUAL STUDIO CODE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
@@ -33,16 +36,17 @@ Doctor Appointment Dashboard that allows users to book, manage, and view appoint
 <p align="center"><a href="https://www.apachefriends.org" target="_blank"><img src="https://github.com/keerthanam12/Doctor-Appointment-Dashboard/assets/145577874/ec6745dd-c41d-4013-a5b5-9e82ee2200e0" width="100" alt="XAMPP Logo"></a></p>
 
 <p align="center">
-<a href="https://www.apachefriends.org"><img src="https://img.shields.io/badge/Version-0075A8?style=for-the-badge&logo=Version&logoColor=white" alt="version"></a>
-<a href="https://www.apachefriends.org"><img src="https://img.shields.io/badge/Downloads-CCFF00?style=for-the-badge&logo=Downloads&logoColor=white" alt="downloads"></a>
+<a href="https://packagist.org/packages/apache/log4php"><img src="https://img.shields.io/packagist/dt/apache/log4php" alt="Total Downloads"></a>
+<a href="https://packagist.org/packages/apache/log4php"><img src="https://img.shields.io/packagist/v/apache/log4php" alt="Latest Stable Version"></a>
 </p>
 
 ## ⚡ About XAMMP
-  * Install and setup `XAMPP` package
-  * Download `XAMPP` from here https://www.apachefriends.org/download.html
-  * Create `XAMPP` folder manually in drive C like this `C:\xampp`
+  * Install and setup `xampp` package
+  * Download `xampp` from here https://www.apachefriends.org/download.html
+  * Create `xampp` folder manually in drive C like this `C:\xampp`
   * Start Installation of the downloaded `XAMPP' package 
   * Verify that Apache and MySQL packages are selected
+  * To install `xampp` automatically run `php` and  `phpmyadmin` and also `mysql`
   * Verify that `c:\xampp` directory is selected
   * Complete the installation until finish.
 
@@ -50,6 +54,23 @@ Doctor Appointment Dashboard that allows users to book, manage, and view appoint
   * [Blogsite](https://blog.templatetoaster.com/install-xampp-on-windows/)
   * [XAMPP Official Site](https://www.apachefriends.org/index.html)
 
+<p align="center"><a href="https://www.mysql.com/" target="_blank"><img src="https://github.com/keerthanam12/Attendance-Management-System/assets/145577874/301685ab-a3ae-4323-b8d0-96e708df9b30" width="200" alt="MySQL Logo"></a></p>
+
+<p align="center">
+<a href="https://packagist.org/packages/dg/mysql-dump"><img src="https://img.shields.io/packagist/dt/dg/mysql-dump" alt="Total Downloads"></a>
+<a href="https://packagist.org/packages/dg/mysql-dump"><img src="https://img.shields.io/packagist/v/dg/mysql-dump" alt="Latest Stable Version"></a>
+</p>
+
+## ⚡ About MySQL
+  * Install the `mysql` package
+  * Download `mysql` from here https://www.mysql.com/downloads/
+  * Then setup the `mysql` package
+  * Destination Folder. Custom Setup. Ready to Install `mysql`
+  * Checking and updating `mysql` version the following command `mysql -v`
+  * Complete the installation until finish.
+
+## ⚡ Need more Toturial?
+  * [MySQL Official Site](https://www.mysql.com/)
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
@@ -117,6 +138,20 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## ⚡ License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+
+## 🚀 Run the Project
+**1.** Download and Extract the zip file. Make sure to add "xampp" and "mysql" and "laravel" in your environment variables.
+
+**2.** Go to the File Explorer. See the Extracted zip file.
+
+**3.** Then open XAMPP and upload zip file.
+
+**4.** Then run the zip file.
+
+**5.** Automatically run phpMyAdmin localhost.
+
+**6.** Open a web browser. (http://localhost:8000/ or http://127.0.0.1:8000/)
 
 
 ## 📬 Contact

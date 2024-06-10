@@ -12,20 +12,22 @@ Doctor Appointment Dashboard that allows users to book, manage, and view appoint
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![JQUERY](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
 **Backend:**
 
 ![LARAVEL](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-**Database:**
+**Databases:**
 
 ![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 **Tools/Platforms:**
 
-![PHPMYADMIN](https://img.shields.io/badge/PhpMyAdmin-404D59?style=for-the-badge)
+![XAMPP](https://img.shields.io/badge/XAMPP-FF5722?style=for-the-badge&logo=xampp&logoColor=white)
+![PHPMYADMIN](https://img.shields.io/badge/phpMyAdmin-404D59?style=for-the-badge)
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VISUAL STUDIO CODE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
@@ -71,6 +73,24 @@ Doctor Appointment Dashboard that allows users to book, manage, and view appoint
 
 ## ⚡ Need more Toturial?
   * [MySQL Official Site](https://www.mysql.com/)
+
+<p align="center"><a href="https://jquery.com/" target="_blank"><img src="" width="200" alt="jQuery Logo"></a></p>
+
+<p align="center">
+<a href="https://packagist.org/packages/querypath/querypath"><img src="https://img.shields.io/packagist/dt/querypath/querypath" alt="Total Downloads"></a>
+<a href="https://packagist.org/packages/querypath/querypath"><img src="https://img.shields.io/packagist/v/querypath/querypath" alt="Latest Stable Version"></a>
+</p>
+
+## ⚡ About jQuery
+  * Install the `jquery` package
+  * Download `jquery` from here https://jquery.com/download/
+  * Then setup the `jquery` package
+  * Destination Folder. Custom Setup. Ready to Install `jquery`
+  * Checking and updating `jquery` version the following command `jQuery.fn.jquery`
+  * Complete the installation until finish.
+
+## ⚡ Need more Toturial?
+  * [jQuery Official Site](https://jquery.com/)
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 

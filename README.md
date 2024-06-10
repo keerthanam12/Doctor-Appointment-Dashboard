@@ -74,7 +74,7 @@ Doctor Appointment Dashboard that allows users to book, manage, and view appoint
 ## ⚡ Need more Toturial?
   * [MySQL Official Site](https://www.mysql.com/)
 
-<p align="center"><a href="https://jquery.com/" target="_blank"><img src="" width="200" alt="jQuery Logo"></a></p>
+<p align="center"><a href="https://jquery.com/" target="_blank"><img src="https://github.com/keerthanam12/Doctor-Appointment-Dashboard/assets/145577874/29d1e942-e737-4378-80bc-f41a74adca3d" width="200" alt="jQuery Logo"></a></p>
 
 <p align="center">
 <a href="https://packagist.org/packages/querypath/querypath"><img src="https://img.shields.io/packagist/dt/querypath/querypath" alt="Total Downloads"></a>

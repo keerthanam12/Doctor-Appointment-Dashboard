@@ -139,6 +139,9 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
+## ⚡ Need more Toturial?
+  * [Laravel Official Site](https://laravel.com)
+
 
 ## 🚀 Run the Project
 **1.** Download and Extract the zip file. Make sure to add "xampp" and "mysql" and "laravel" in your environment variables.

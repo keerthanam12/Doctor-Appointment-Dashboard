@@ -18,6 +18,7 @@ Doctor Appointment Dashboard that allows users to book, manage, and view appoint
 
 ![LARAVEL](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![BLADE](https://img.shields.io/badge/Blade-EE0000?style=for-the-badge&logo=blade&logoColor=white)
 
 **Databases:**
 
